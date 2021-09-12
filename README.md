@@ -8,7 +8,7 @@
 </br></br>
 - 🌱 Cursos livres na área de programação:
   - Lógica de Programação I : Os Primeiros Programas com Javascript e HTML;
-  - Java COMPLETO Programação Orientada a Objetos +Projetos (em progresso);
+  - Java Completo Programação Orientada a Objetos +Projetos (em progresso);
   - JavaScript: Programando na linguagem da web (em progresso);
  </br></br>
 <div>
