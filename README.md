@@ -22,7 +22,7 @@
    <img align="center" alt="Janaina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Janaina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Janaina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Jana-yoda" height="200" width="250" src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
+   <img align="right" alt="Jana-yoda" height="160" width="200" src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
   </div>
  
  ##
